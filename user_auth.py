@@ -108,7 +108,7 @@ def main():
     init_db() # 确保数据库和表已创建
     
     while True:
-        print("\n===== 用户认证系统 =====")
+        print("\n===== 购物平台客服系统 =====")
         print("1. 注册新用户")
         print("2. 用户登录")
         print("3. 退出程序")
